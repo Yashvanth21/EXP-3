@@ -42,7 +42,6 @@ switch2.
 
 ### CIRCUIT DIAGRAM &Tabulation:1
 <img width="549" height="876" alt="image" src="https://github.com/user-attachments/assets/db2874ee-8899-4d42-afa8-18fadb4e52b7" />
-<img width="613" height="920" alt="image" src="https://github.com/user-attachments/assets/ef858c18-d74b-4b4a-9daa-9453b5557680" />
 
 
 
@@ -55,7 +54,6 @@ switch2.
 ### CIRCUIT DIAGRAM & Tabulation:2
 
 <img width="646" height="788" alt="image" src="https://github.com/user-attachments/assets/e7813663-98b1-4490-a9f5-c4087608e0b4" />
-<img width="1515" height="443" alt="image" src="https://github.com/user-attachments/assets/30ec7f55-edad-4ba2-b176-5a68e0eb3a42" />
 
 
 
